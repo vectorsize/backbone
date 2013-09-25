@@ -1,19 +1,19 @@
-//= head.js
+//= lib/head.js
 
-  //= helpers.js
+  //= lib/helpers.js
 
-  //= events.js
+  //= lib/events.js
 
-  //= model.js
+  //= lib/model.js
 
-  //= collection.js
+  //= lib/collection.js
 
-  //= view.js
+  //= lib/view.js
 
-  //= sync.js
+  //= lib/sync.js
 
-  //= router.js
+  //= lib/router.js
 
-  //= history.js
+  //= lib/history.js
 
-//= foot.js
+//= lib/foot.js

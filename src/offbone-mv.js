@@ -1,11 +1,11 @@
-//= head.js
+//= lib/head.js
 
-  //= helpers.js
+  //= lib/helpers.js
 
-  //= events.js
+  //= lib/events.js
 
-  //= off-model.js
+  //= lib/off-model.js
 
-  //= view.js
+  //= lib/view.js
 
-//= foot.js
+//= lib/foot.js
