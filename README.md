@@ -8,6 +8,6 @@ Just a disassembled Backbone to be able to work with the parts seppararedly.
 * Parts are taken appart and re-assembled with `grunt-rigger`.
 * The "untouched" library works just fine after re-assembling.
 * Slim only view and model build also works.
-*Some attempts to rempve the ajax sync functionallity are now working
+* Some attempts to rempve the ajax sync functionallity are now working
 
 …see the different builds inside the dist directory.
